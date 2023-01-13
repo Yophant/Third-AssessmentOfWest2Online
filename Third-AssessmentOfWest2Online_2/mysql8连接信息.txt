@@ -1,0 +1,2 @@
+com.mysql.cj.jdbc.Driver
+jdbc:mysql://Localhost/weather?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
